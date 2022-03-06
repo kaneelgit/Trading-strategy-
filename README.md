@@ -9,7 +9,10 @@ The blog article with results --> (https://medium.com/analytics-vidhya/how-im-us
 
 Some results - 
 
+Predicted buying opportunities
+
 ![1_2rdETRDZHCg4NqnIaXDWDA](https://user-images.githubusercontent.com/85404022/156928802-094d90c1-8ae6-491c-aea3-0672c3b032de.png)
 
+Model comparison with the S&P 500 gains in 2021
 
 ![1_ZjoDR8c7fDGqMKXyRIbfpw](https://user-images.githubusercontent.com/85404022/156928807-9e94e6b8-0ce4-4ea1-8aad-bf1771ca1b3b.png)
