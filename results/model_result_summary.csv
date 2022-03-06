@@ -1,0 +1,5 @@
+Model,Gains,Losses,Profit,Profit Percentage,Maximum Gain,Maximum Loss
+LR_v1_predict_0.7_3,2974.89,-2062.63,912.26,30.41,212.4,-196
+LR_v1_predict_0.9_10,2772.61,-1963.97,808.64,26.95,163.25,-159
+LR_v1_predict_0.95_21,2911.67,-1478.71,1432.96,47.77,259.93,-215
+LR_v1_predict_1_1,2203.36,-1791.85,411.52,13.72,202.72,-219
